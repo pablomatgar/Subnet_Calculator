@@ -1,0 +1,9 @@
+<!-- Pablo Mateos García-->
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:textSize="13sp"
+    android:padding="3dp"
+    android:gravity="center"
+    android:textColor="@color/cardview_light_background"/>
